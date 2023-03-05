@@ -1,0 +1,321 @@
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .header{
+    position: absolute;
+    width: 1240px;
+    height: 110px;
+    left: 115px;
+    top: 35px;
+    background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+    border-radius: 35px;
+   }
+   #mm{
+    position: absolute;
+    left: 30px;
+    height: 120px;
+    width: 320px;
+}
+#home{
+    position: absolute;
+    width: 271px;
+    height: 55px;
+    left: 980px;
+    top: 22px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    color: #202F65;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+#aabb{
+
+        border: none;
+        border-radius: 15px;
+        color: white;
+        position: absolute;
+        top: 270px;
+        left: 770px;
+        height: 40px;
+        width: 930px;
+        padding-left: 40px;
+        font-family: 'Abril Fatface';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 61px;
+
+color: #202F65;
+}
+#hey{
+
+    position: absolute;
+width: 512px;
+height: 69px;
+left: 549px;
+top: 235px;
+
+font-family: 'Abril Fatface';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 61px;
+
+color: #202F65;
+}
+#box1{
+    position: absolute;
+width: 440px;
+height: 245px;
+left: 326px;
+top: 464px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+#room1{
+    position: absolute;
+width: 318px;
+height: 85px;
+left: 379px;
+top: 519px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 46px;
+text-align: center;
+
+color: #041562;
+}
+#sweep{
+    position: absolute;
+width: 72.79px;
+height: 72.18px;
+left: 508.66px;
+top: 604px;
+
+transform: rotate(41.32deg);
+}
+#box2{
+    position: absolute;
+width: 440px;
+height: 245px;
+left: 849px;
+top: 464px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+#ele{
+    position: absolute;
+width: 286px;
+height: 40px;
+left: 1005px;
+top: 464px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 57px;
+
+color: #041562;
+
+}
+#ele1{
+    position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 919px;
+    top: 523px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #041562;
+}
+#ele2{
+    position: absolute;
+width: 70px;
+height: 51px;
+left: 1043px;
+top: 620px;
+
+}
+#box3{
+    position: absolute;
+width: 440px;
+height: 245px;
+left: 326px;
+top: 734px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+#furn{
+    position: absolute;
+width: 313px;
+height: 56px;
+left: 484px;
+top: 734px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 57px;
+
+color: #041562;
+
+}
+#furn1{
+    position: absolute;
+    width: 381px;
+    height: 130px;
+    left: 365px;
+    top: 814px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 46px;
+    
+    color: #041562;
+    
+}
+#ppp{
+    position: absolute;
+width: 82px;
+height: 96px;
+left: 488px;
+top: 888px;
+
+
+}
+#box4{
+    position: absolute;
+width: 440px;
+height: 245px;
+left: 851px;
+top: 734px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+#o1{
+    position: absolute;
+width: 274px;
+height: 54px;
+left: 1026px;
+top: 734px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 57px;
+
+color: #041562;
+
+}
+a:hover{
+    color: white;
+}
+#o2{
+    position: absolute;
+width: 396px;
+height: 100px;
+left: 871px;
+top: 795px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 46px;
+text-align: center;
+
+color: #041562;
+}
+#oo{
+    position: absolute;
+width: 41px;
+height: 37px;
+left: 1049px;
+top: 890px;
+
+}
+#room{
+    position: absolute;
+width: 296px;
+height: 47px;
+left: 424px;
+top: 464px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 57px;
+
+color: #041562;
+}
+#contact1{
+    position: absolute;
+width: 201px;
+height: 54px;
+left: 684px;
+top: 2419px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 66px;
+
+color: #041562;
+}
+#box1:hover{
+    transform: scale(1.05);
+}
+#box2:hover{
+    transform: scale(1.05);
+}
+#box3:hover{
+    transform: scale(1.05);
+}
+#box4:hover{
+    transform: scale(1.05);
+}
+#history{
+    position: absolute;
+    width: 271px;
+    height: 55px;
+    left: 920px;
+    top: 55px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    color: #202F65;
+}

@@ -1,0 +1,133 @@
+.header{
+    position: absolute;
+    width: 1240px;
+    height: 110px;
+    left: 115px;
+    top: 35px;
+    background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+    border-radius: 35px;
+   }
+   #mm{
+    position: absolute;
+    left: 30px;
+    height: 120px;
+    width: 320px;
+}
+#home{
+    position: absolute;
+    width: 271px;
+    height: 55px;
+    left: 1100px;
+    top: 22px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    color:  #202F65;
+}
+#history{
+    position: absolute;
+    width: 271px;
+    height: 55px;
+    left: 910px;
+    top: 22px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    color: #202F65;
+}
+#admin{
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 600px;
+    top: 15px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 36px;
+    color: #202F65;
+}
+#hey{
+
+    position: absolute;
+width: 512px;
+height: 69px;
+left: 549px;
+top: 235px;
+
+font-family: 'Abril Fatface';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 61px;
+
+color: #202F65;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .a1{
+    border: none;
+    width: 100px;
+    background: #AAA0A0;
+border-radius: 15px;
+}
+#request{
+    position: absolute;
+width: 790px;
+height: 62px;
+left: 340px;
+top: 450px;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 20px 10px;
+  }
+.t1{
+    position: relative;
+    left: 0px;
+    color: #202F65;
+}
+.t2{
+    position: relative;
+    left:80px;
+    color: #202F65;
+}
+.t3{
+    position: relative;
+    left: 160px;
+    color: #202F65;
+}
+.t4{
+    position: relative;
+    left: 240px;
+    color: #202F65;
+}
+.t5{
+    position: relative;
+    left: 320px;
+    color: #202F65;
+}
+.t6{
+    position: relative;
+    left: 400px;
+    color: #202F65;
+}
+td:nth-child(n) { text-align: center; }

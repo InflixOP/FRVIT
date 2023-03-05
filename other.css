@@ -1,0 +1,146 @@
+#topblock{
+    height: 110px;
+    width: 1240px;
+    left: 136px;
+    top: 56px;
+    border-radius: 35px;
+    position: absolute;
+    width: 1240px;
+    height: 110px;
+    left: 136px;
+    top: 56px;
+    
+    background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+    border-radius: 35px;    
+}
+#homee{
+    position: absolute;
+width: 271px;
+height: 55px;
+left: 902px;
+top: 19px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 66px;
+
+color: #202F65;
+text-decoration: none;
+}
+#homee:hover{
+    color: white;
+}
+#logoutt{
+    position: absolute;
+width: 271px;
+height: 55px;
+left: 1069px;
+top: 19px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 66px;
+
+color: #202F65;
+text-decoration: none;
+}
+#logoutt:hover{
+    color: white;
+}
+#box{
+    height: 483px;
+    width: 873px;
+    left: 375px;
+    top: 278px;
+    border-radius: 10px;
+    position: absolute;
+    width: 873px;
+    height: 483px;
+    left: 375px;
+    top: 278px;
+    
+    background: #D9D9D9;
+    border-radius: 10px;    
+}
+#heading{
+    font-family: Abril Fatface;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    width: 613px;
+    height: 69px;
+    left: 298px;
+    top: 28px;
+    
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    
+    color: #202F65;
+        
+}
+#domain{
+    height: 120px;
+    width: 505px;
+    left: 556px;
+    top: 461px;
+    border-radius: 20px;
+    position: absolute;
+    width: 505px;
+    height: 120px;
+    left: 585px;
+    top: 461px;
+    font-size: large;
+    background: #AAA0A0;
+    border-radius: 20px;
+    border: white;     
+}
+#con{
+    position: absolute;
+width: 138px;
+height: 66px;
+left: 753px;
+top: 610px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #202F65;
+background: #AAA0A0;
+border-radius: 15px;
+border:2px white;
+}
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  #logo{
+    height: 110px;
+width: 198px;
+left: 177px;
+top: 56px;
+border-radius: 0px;
+position: absolute;
+width: 198px;
+height: 110px;
+left: 177px;
+top: 56px;}
+#con:hover{
+    transform: scale(1.05);
+}

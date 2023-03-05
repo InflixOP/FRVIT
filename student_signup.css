@@ -1,0 +1,281 @@
+.header{
+    position: absolute;
+    width: 1240px;
+    height: 110px;
+    left: 115px;
+    top: 35px;
+    background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+    border-radius: 35px;
+   }
+#mm{
+    position: absolute;
+    left: 30px;
+    height: 120px;
+    width: 320px;
+}
+#home{
+    position: absolute;
+    width: 271px;
+    height: 55px;
+    left: 950px;
+    top: 22px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    color: #202F65;
+}
+#student{
+    position: relative;
+    width: 295px;
+    height: 37px;
+    left: 32px;    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 66px;   
+    color: #202F65;
+}
+#block{
+position: relative;
+width: 262px;
+height: 60px;
+left: 614px;
+top: 248px;
+background: #AAA0A0;
+border-radius: 15px;
+}
+#form{
+position: absolute;
+width: 295px;
+height: 76px;
+left: 550px;
+top: 350px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 66px;
+
+color: #000000;
+}
+#name{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 366px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+    }
+#pass{
+    position: absolute;
+    width: 227px;
+    height: 70px;
+    left: 505px;
+    top: 409px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 66px;
+    
+    color: #000000;
+    }
+#name1{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 424px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+    }
+a:link{
+    color: #202F65;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+#submit{
+    position: absolute;
+    width: 147px;
+    height: 60px;
+    left: 653px;
+    top: 780px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 66px;
+    /* identical to box height */
+    
+    
+    color: #202F65;
+    background: #AAA0A0;
+    border-radius: 15px;
+    border-color: white;
+    padding-top: 0px;
+    }
+    #submit:hover{
+        transform: scale(1.05);
+    }
+#form1{
+    position: absolute;
+width: 295px;
+height: 76px;
+left: 530px;
+top: 470px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 66px;
+
+color: #000000;
+
+}
+#name2{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 486px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+}
+#na{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 545px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+}
+#hostel{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 546px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+}
+#pass1{
+    position: absolute;
+    width: 227px;
+    height: 70px;
+    left: 545px;
+    top: 532px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 66px;
+    
+    color: #000000;
+}
+#mo{
+        position: absolute;
+        width: 295px;
+        height: 76px;
+        left: 555px;
+        top: 590px;
+        
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 66px;
+        
+        color: #000000;
+}
+#mmm{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 604px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+}
+#zzz{
+    position: absolute;
+        width: 295px;
+        height: 76px;
+        left: 538px;
+        top: 645px;
+        
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 66px;
+        
+        color: #000000;
+}
+#room{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 660px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+}
+#momo{
+    position: absolute;
+    width: 295px;
+    height: 76px;
+    left: 538px;
+    top: 705px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 66px;
+    
+    color: #000000;
+}
+#momo1{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 670px;
+    top: 718px;
+    
+    background: #AAA0A0;
+    border-radius: 20px;
+    border-color: white;
+}

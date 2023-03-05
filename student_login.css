@@ -1,0 +1,149 @@
+#mm{
+    position: absolute;
+    left: 30px;
+    height: 120px;
+    width: 320px;
+}
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+.header{
+    position: absolute;
+    width: 1240px;
+    height: 110px;
+    left: 115px;
+    top: 35px;
+    background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+    border-radius: 35px;
+   }
+#home{
+    position: absolute;
+    width: 271px;
+    height: 55px;
+    left: 950px;
+    top: 22px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    color: #202F65;
+}
+a:link { text-decoration: none; }
+a:hover{color: rgb(31, 32, 32);}
+#student{
+    position: relative;
+    width: 295px;
+    height: 37px;
+    left: 32px;    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 66px;   
+    color: #202F65;
+}
+#block{
+position: relative;
+width: 262px;
+height: 60px;
+left: 614px;
+top: 248px;
+background: #AAA0A0;
+border-radius: 15px;
+}
+#form{
+position: absolute;
+width: 295px;
+height: 76px;
+left: 500px;
+top: 350px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 66px;
+
+color: #000000;
+}
+#name{
+position: absolute;
+width: 335px;
+height: 35px;
+left: 680px;
+top: 366px;
+
+background: #AAA0A0;
+border-radius: 20px;
+border-color: white;
+}
+#pass{
+position: absolute;
+width: 227px;
+height: 70px;
+left: 540px;
+top: 409px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 66px;
+
+color: #000000;
+}
+#name1{
+position: absolute;
+width: 335px;
+height: 35px;
+left: 680px;
+top: 424px;
+
+background: #AAA0A0;
+border-radius: 20px;
+border-color: white;
+}
+#submit{
+position: absolute;
+width: 147px;
+height: 60px;
+left: 653px;
+top: 488px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #202F65;
+background: #AAA0A0;
+border-radius: 15px;
+border-color: white;
+padding-top: 0px;
+}
+#signup{
+    position: absolute;
+    width: 536px;
+    height: 64px;
+    left: 603px;
+    top: 545px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 38px;
+    
+    color: #000000;
+}
+#submit:hover{
+    transform: scale(1.05);
+}

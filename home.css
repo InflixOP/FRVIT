@@ -1,0 +1,457 @@
+#logo{
+    position: absolute;
+    width: 209px;
+    height: 110px;
+    left: 136px;
+    top: 6px;
+    }
+    #top{
+        position: absolute;
+    width: 1240px;
+    height: 110px;
+    left: 136px;
+    top: 29px;
+    
+    background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+    border-radius: 35px;
+    }
+    #about{
+        position: absolute;
+    width: 118px;
+    height: 47px;
+    left: 700px;
+    top: 42px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    #contact{
+        position: absolute;
+    width: 129px;
+    height: 30px;
+    left: 1076px;
+    top: 42px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    }
+    #back{
+        position: absolute;
+    width: 1512px;
+    height: 699px;
+    left: 0px;
+    top: 0px;
+    }
+    #hey{
+        position: absolute;
+    width: 585px;
+    height: 69px;
+    left: 514px;
+    top: 239px;
+    
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    
+    color: #202F65;
+    
+    }
+    #text{
+        position: absolute;
+    width: 1193px;
+    height: 40px;
+    left: 275px;
+    top: 376px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 66px;
+    
+    color: #041562;
+    }
+    #stu{
+        position: absolute;
+        width: 190px;
+        height: 73px;
+        left: 400px;
+        top: 550px;
+        
+        background: #959595;
+        border-radius: 15px;
+        font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    /* identical to box height */
+    
+    
+    color: #202F65;
+    border-color: white;
+    }
+    a{
+        text-decoration: none;
+    }
+    #admin{
+        position: absolute;
+        width: 190px;
+        height: 73px;
+        left: 900px;
+        top: 550px;
+        
+        background: #959595;
+        border-radius: 15px;
+        font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    /* identical to box height */
+    
+    
+    color: #202F65;
+    border-color: white;
+    }
+    #stu:hover{
+        transform: scale(1.05);
+    }
+    #admin:hover{
+        transform: scale(1.05);
+    }
+    #about1{
+        position: absolute;
+    width: 190px;
+    height: 50px;
+    left: 721px;
+    top: 836px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 66px;
+    
+    color: #041562;
+    
+    }
+    #text1{
+        
+    position: absolute;
+    width: 921px;
+    height: 128px;
+    left: 362px;
+    top: 954px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 66px;
+    
+    color: #041562;
+    }
+    #servi1{
+        position: absolute;
+    width: 165px;
+    height: 46px;
+    left: 750px;
+    top: 1526px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 66px;
+    
+    color: #041562;
+    
+    }
+    #box1{
+        position: absolute;
+    width: 440px;
+    height: 245px;
+    left: 326px;
+    top: 1664px;
+    
+    background: #D9D9D9;
+    border-radius: 10px;
+    }
+    #room1{
+        position: absolute;
+    width: 318px;
+    height: 85px;
+    left: 379px;
+    top: 1733px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #041562;
+    }
+    #room{
+        position: absolute;
+    width: 296px;
+    height: 47px;
+    left: 414px;
+    top: 1664px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 57px;
+    
+    color: #041562;
+    
+    }
+    #sweep{
+        position: absolute;
+    width: 72.79px;
+    height: 72.18px;
+    left: 508.66px;
+    top: 1829px;
+    
+    transform: rotate(41.32deg);
+    }
+    #box2{
+        position: absolute;
+    width: 440px;
+    height: 245px;
+    left: 849px;
+    top: 1666px;
+    
+    background: #D9D9D9;
+    border-radius: 10px;
+    }
+    #ele{
+        position: absolute;
+    width: 286px;
+    height: 40px;
+    left: 1005px;
+    top: 1664px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 57px;
+    
+    color: #041562;
+    
+    }
+    #ele1{
+        position: absolute;
+        width: 318px;
+        height: 85px;
+        left: 919px;
+        top: 1733px;
+        
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 46px;
+        text-align: center;
+        
+        color: #041562;
+    }
+    #ele2{
+        position: absolute;
+    width: 70px;
+    height: 51px;
+    left: 1043px;
+    top: 1840px;
+    
+    }
+    #box3{
+        position: absolute;
+    width: 440px;
+    height: 245px;
+    left: 326px;
+    top: 1947px;
+    
+    background: #D9D9D9;
+    border-radius: 10px;
+    }
+    #furn{
+        position: absolute;
+    width: 313px;
+    height: 56px;
+    left: 484px;
+    top: 1947px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 57px;
+    
+    color: #041562;
+    
+    }
+    #furn1{
+        position: absolute;
+        width: 381px;
+        height: 130px;
+        left: 365px;
+        top: 2020px;
+        
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 46px;
+        
+        color: #041562;
+        
+    }
+    #ppp{
+        position: absolute;
+    width: 82px;
+    height: 96px;
+    left: 488px;
+    top: 2102px;
+    
+    
+    }
+    #box4{
+        position: absolute;
+    width: 440px;
+    height: 245px;
+    left: 851px;
+    top: 1947px;
+    
+    background: #D9D9D9;
+    border-radius: 10px;
+    }
+    #o1{
+        position: absolute;
+    width: 274px;
+    height: 54px;
+    left: 1026px;
+    top: 1949px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 57px;
+    
+    color: #041562;
+    
+    }
+    a:hover{
+        color: white;
+    }
+    #o2{
+        position: absolute;
+    width: 396px;
+    height: 100px;
+    left: 871px;
+    top: 2025px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #041562;
+    }
+    #oo{
+        position: absolute;
+    width: 41px;
+    height: 37px;
+    left: 1049px;
+    top: 2130px;
+    
+    }
+    #contact1{
+        position: absolute;
+    width: 201px;
+    height: 54px;
+    left: 684px;
+    top: 2419px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 66px;
+    
+    color: #041562;
+    }
+    #cont{
+        position: absolute;
+    width: 335px;
+    height: 111px;
+    left: 684px;
+    top: 2492px;
+    
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 46px;
+    
+    color: #041562;
+    
+    }
+    #cont1{
+        position: absolute;
+        width: 335px;
+        height: 111px;
+        left: 699px;
+        top: 2530px;
+        
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 46px;
+        
+        color: #041562;
+    }
+    #ser{
+        position: absolute;
+    width: 102px;
+    height: 30px;
+    left: 1036px;
+    top: 71px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+    }
+    html {
+        scroll-behavior: smooth;
+      }
+    a:link{
+        color: #202F65;
+    }

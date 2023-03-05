@@ -1,0 +1,196 @@
+#topblock{
+    height: 110px;
+width: 1240px;
+left: 136px;
+top: 44px;
+border-radius: 35px;
+position: absolute;
+width: 1240px;
+height: 110px;
+left: 136px;
+top: 44px;
+
+background: radial-gradient(68.71% 8731.24% at 68.71% 100%, #7F7A7A 0%, rgba(160, 151, 151, 0) 100%);
+border-radius: 35px;
+}
+#homee{
+    position: absolute;
+width: 271px;
+height: 55px;
+left: 902px;
+top: 19px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 66px;
+
+color: #202F65;
+text-decoration: none;
+}
+#homee:hover{
+    color: white;
+}
+#logoutt{
+    position: absolute;
+width: 271px;
+height: 55px;
+left: 1069px;
+top: 19px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 66px;
+
+color: #202F65;
+text-decoration: none;
+}
+#logoutt:hover{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#box{
+    height: 483px;
+width: 873px;
+left: 375px;
+top: 249px;
+border-radius: 10px;
+position: absolute;
+width: 873px;
+height: 483px;
+left: 375px;
+top: 249px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+#heading{
+    height: 69px;
+width: 613px;
+left: 536px;
+top: 303px;
+border-radius: nullpx;
+position: absolute;
+width: 613px;
+height: 69px;
+left: 291px;
+top: 40px;
+
+font-family: 'Abril Fatface';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 61px;
+
+color: #202F65;
+}
+#password{
+    height: 70px;
+width: 227px;
+left: 519px;
+top: 456px;
+border-radius: nullpx;
+position: absolute;
+width: 227px;
+height: 70px;
+left: 519px;
+top: 456px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 66px;
+
+color: #000000;
+}
+#passbox{
+    height: 60px;
+width: 335px;
+left: 747px;
+top: 456px;
+border-radius: 20px;
+position: absolute;
+width: 335px;
+height: 60px;
+left: 747px;
+top: 456px;
+
+background: #AAA0A0;
+border-radius: 20px;
+border:2px white;
+}
+#button{
+    height: 66px;
+width: 138px;
+left: 726px;
+top: 610px;
+border-radius: nullpx;
+position: absolute;
+width: 138px;
+height: 66px;
+left: 726px;
+top: 610px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 66px;
+
+
+
+color: #202F65;
+}
+#logo{
+    height: 110px;
+width: 198px;
+left: 177px;
+top: 44px;
+border-radius: 0px;
+position: absolute;
+width: 198px;
+height: 110px;
+left: 177px;
+top: 44px;
+
+}
+
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+.con{
+    position: absolute;
+width: 138px;
+height: 66px;
+left: 526px;
+top: 510px;
+
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #202F65;
+background: #AAA0A0;
+border-radius: 15px;
+border-color: #D9D9D9;
+}
+#back{
+    left: 1000px;
+}
+a:link { text-decoration: none; }
+.con:hover{
+    transform: scale(1.05);
+}
